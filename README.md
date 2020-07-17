@@ -1,5 +1,5 @@
 #### Issue and Pull Request templates have landed on github!
-
+dsd
 Github now supports issue templates via a markdown file called `issue_template.md` in the root or `.github/` folder of your repo!
 
 There is also added support for pull request templates via a markdown file called `pull_request_template.md` in the root or `.github/` folder of your repo!
